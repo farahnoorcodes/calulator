@@ -1,7 +1,7 @@
 # calulator
 A simple rule based calculator
 <br>
-it can do the following task :
+it can do the following task:
 <br>
 1. Addition
 <br>
